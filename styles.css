@@ -2,3 +2,7 @@
   font-size: 10rem;
   color: brown;
 }
+.main-btn {
+  background-color: coral;
+  border: 1px solid goldenrod;
+}
